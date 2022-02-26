@@ -1,5 +1,1 @@
-Primeiro sistema no GIT
-
-alterando tudo
-
-abel bittle
+Primeiro projeto em GIT
